@@ -7,7 +7,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 clear
-mpv epep.mp3
+mpv yamete.mp3
 clear
 echo -e $purple"
             ⣀⣠⣤⡶⠶                ⠲⠶⣤⣤⣄⣀       
